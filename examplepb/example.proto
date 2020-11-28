@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package com.example.v1;
+import "google/protobuf/timestamp.proto";
+
+option go_package = "github.com/sebnyberg/protostore/examplepb;examplepb";
+
+// Dummy definition for testing purposes
+message Report {
+  string report_id = 1;
+
+  string report_comment = 2;
+  string reported_by_user_id = 3;
+
+  // The event_ts will be used to partition messages
+  google.protobuf.Timestamp event_ts = 4;
+  google.protobuf.Timestamp registered_at = 5;
+  google.protobuf.Timestamp updated_at = 6;
+}

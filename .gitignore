@@ -1,0 +1,7 @@
+.badger
+.local
+.data
+*.out
+*.pprof
+.vscode
+*.ld
