@@ -81,6 +81,8 @@ github.com/sebnyberg/autoio v0.0.0-20201128113433-047f1fdbe5f3 h1:coGOCRfSCEo6oP
 github.com/sebnyberg/autoio v0.0.0-20201128113433-047f1fdbe5f3/go.mod h1:OrVn7kMBd/qwsEWzAhhVQKErqHxgac61YFRW8vdI7lA=
 github.com/sebnyberg/protoio v1.0.2 h1:y7ILs1bVXQ5BZ0R67HRno+5qYZT7AqJiEFnNkdWtMSc=
 github.com/sebnyberg/protoio v1.0.2/go.mod h1:0GvXSG0mhQrBg+H53wQz9eCxqjMuzJGojQIR0yFDprs=
+github.com/segmentio/ksuid v1.0.3 h1:FoResxvleQwYiPAVKe1tMUlEirodZqlqglIuFsdDntY=
+github.com/segmentio/ksuid v1.0.3/go.mod h1:/XUiZBD3kVx5SmUOl55voK5yeAbBNNIed+2O73XgrPE=
 github.com/spaolacci/murmur3 v0.0.0-20180118202830-f09979ecbc72/go.mod h1:JwIasOWyU6f++ZhiEuf87xNszmSA2myDM2Kzu9HwQUA=
 github.com/spaolacci/murmur3 v1.1.0/go.mod h1:JwIasOWyU6f++ZhiEuf87xNszmSA2myDM2Kzu9HwQUA=
 github.com/spf13/afero v1.1.2/go.mod h1:j4pytiNVoe2o6bmDsKpLACNPDBIoEAkihy7loJ1B0CQ=
